@@ -21,4 +21,4 @@ steps:
 images:
 - 'us-west2-docker.pkg.dev/$PROJECT_ID/simple-app-repo/helloworld:v1'
 # [END cloudbuild_quickstart_build]
-# Docker is built successfully
+# Docker is built successfully. The second rime also
